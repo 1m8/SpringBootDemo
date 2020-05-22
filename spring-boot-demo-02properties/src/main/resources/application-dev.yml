@@ -1,0 +1,8 @@
+application:
+  name: dev name
+  version: dev version
+developer:
+  name: dev环境 deverloper name
+  website: dev环境 web site
+  qq: dev环境 qq
+  phone-number: dev环境 phone

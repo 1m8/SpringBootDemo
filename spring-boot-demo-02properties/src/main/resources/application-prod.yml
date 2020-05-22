@@ -1,0 +1,8 @@
+application:
+  name: prod name
+  version: prod version
+developer:
+  name: prod环境 deverloper name
+  website: prod环境 web site
+  qq: prod环境 qq
+  phone-number: prod环境 phone
