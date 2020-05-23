@@ -11,6 +11,12 @@
         <module>spring-boot-demo-01helloWorld</module>
         <module>spring-boot-demo-02properties</module>
         <module>spring-boot-demo-03actuator</module>
+        <module>spring-boot-demo-04admin</module>
+        <module>spring-boot-demo-server</module>
+        <module>spring-boot-demo-04admin</module>
+        <module>spring-boot-demo-admin-server</module>
+        <module>spring-boot-demo-admin-server</module>
+        <module>spring-boot-demo-04admin-server</module>
     </modules>
 
 

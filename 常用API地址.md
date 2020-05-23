@@ -7,3 +7,11 @@ Never write another getter or equals method again, with one annotation your clas
 # actuator文档
 
 https://docs.spring.io/spring-boot/docs/2.0.5.RELEASE/reference/htmlsingle/#production-ready
+
+# spring boot admin 文档
+
+https://codecentric.github.io/spring-boot-admin/2.2.3/#getting-started
+
+1. What is Spring Boot Admin?
+codecentric’s Spring Boot Admin is a community project to manage and monitor your Spring Boot ® applications. The applications register with our Spring Boot Admin Client (via HTTP) or are discovered using Spring Cloud ® (e.g. Eureka, Consul). The UI is just a Vue.js application on top of the Spring Boot Actuator endpoints.
+
