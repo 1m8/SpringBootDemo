@@ -15,3 +15,11 @@ https://codecentric.github.io/spring-boot-admin/2.2.3/#getting-started
 1. What is Spring Boot Admin?
 codecentric’s Spring Boot Admin is a community project to manage and monitor your Spring Boot ® applications. The applications register with our Spring Boot Admin Client (via HTTP) or are discovered using Spring Cloud ® (e.g. Eureka, Consul). The UI is just a Vue.js application on top of the Spring Boot Actuator endpoints.
 
+# Logback 文档
+
+http://logback.qos.ch/manual/index.html
+
+Logback is intended as a successor to the popular log4j project, picking up where log4j leaves off.
+
+https://docs.spring.io/spring-boot/docs/2.0.1.RELEASE/reference/htmlsingle/#boot-features-logging
+
