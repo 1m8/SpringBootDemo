@@ -1,18 +1,14 @@
-package com.lidl.springBootDemo.controller;
+package com.lidl.springDemo.controller;
 
-import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@Slf4j
-public class IndexController {
+public class TestController {
 
     @GetMapping("/test")
     public String test(){
-
-        log.error("ss");
-
-        return "test";
+        return "log aop test";
     }
+
 }

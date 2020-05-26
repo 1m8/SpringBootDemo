@@ -18,6 +18,7 @@
         <module>spring-boot-demo-admin-server</module>
         <module>spring-boot-demo-04admin-server</module>
         <module>spring-boot-demo-05logback</module>
+        <module>spring-boot-demo-06logaop</module>
     </modules>
 
 
